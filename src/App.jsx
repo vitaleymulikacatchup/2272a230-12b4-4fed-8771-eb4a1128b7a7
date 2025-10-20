@@ -2,7 +2,7 @@ import React from 'react';
 
 export default function App() {
   return (
-    <div className="__variable_eda989 __variable_d59ba8 __variable_37cf7d __variable_84dd2d __variable_8fb32a __variable_337041 __variable_9b9fd1 __variable_20d954 __variable_1d908f __variable_3b4ff3 antialiased">
+    <div className="antialiased">
       {/* NAVIGATION */}
       <nav role="navigation" aria-label="Main navigation" className={"fixed z-" + var(--text-xl) + " top-" + 60 + " w_content - width transition all duration-500 ease-in-out"}>
         <div className={"w contentwidth mx-auto flex items-center justify-between h" + (var--theme)}>
